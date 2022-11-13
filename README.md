@@ -4,5 +4,5 @@ Este repositorio consta una colección de soluciones en *JAVA* a problemas de pr
 ## Tabla de problemas resueltos
 |Nº de problema  | Nombre del problema| Solución
 |--|--|--|
-| 116 | [Hola Mundo](https://www.aceptaelreto.com/problem/statement.php?id=116&cat=5) | [HolaMundo116HolaMundo.java](https://github.com/andvigofp/Acepta_el_reto/blob/master/Soluciones/HolaMundo.java "HolaMundo100HolaMundo.java")| | |
-| 540 | [Por el hueco de la escalera](https://www.aceptaelreto.com/problem/statement.php?id=540&cat=4) | [PorElHuecoDeLaEscalera540PorElHuecoDeLaEscalera.java](https://github.com/andvigofp/Acepta_el_reto/blob/master/Soluciones/PorElHuecoDeLaEscalera.java "PorElHuecoDeLaEscalera540PorElHuecoDeLaEscalera.java")| | |
+| 116 | [Hola Mundo](https://www.aceptaelreto.com/problem/statement.php?id=116&cat=5) | [HolaMundo116HolaMundo.java](https://github.com/andvigofp/Acepta_el_reto/blob/master/Soluciones/HolaMundo.java "HolaMundo.java")| | |
+| 540 | [Por el hueco de la escalera](https://www.aceptaelreto.com/problem/statement.php?id=540&cat=4) | [PorElHuecoDeLaEscalera540PorElHuecoDeLaEscalera.java](https://github.com/andvigofp/Acepta_el_reto/blob/master/Soluciones/PorElHuecoDeLaEscalera.java "PorElHuecoDeLaEscalera.java")| | |
